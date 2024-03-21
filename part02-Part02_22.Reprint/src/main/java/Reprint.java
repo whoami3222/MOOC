@@ -8,11 +8,21 @@ public class Reprint {
         // then call the printText-method multiple times with a while-loop
         
         Scanner scanner = new Scanner(System.in);
+        System.out.println("How many times?");
+        int times = scanner.nextInt();
+        int i =0;
+        while(i<times){
+            i++;
+            printText();
+        }
     }
     
     // Don't change the next line that defines the method!
     // (We aren't giving a method a parameter yet)
     public static void printText() {
+
+        System.out.println("In a hole in the ground there lived a method");
+
         // write some code here
     }
 }
