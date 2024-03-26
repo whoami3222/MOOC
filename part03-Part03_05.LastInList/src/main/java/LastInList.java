@@ -16,6 +16,7 @@ public class LastInList {
 
             list.add(input);
         }
-
+        int values = list.size();
+        System.out.println(list.get(values-1));
     }
 }
