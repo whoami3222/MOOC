@@ -34,11 +34,8 @@ public class PersonalDetails {
             if(length > longest){
                 longest = length;
                 longestName = name;
-
             }
-
-                
-            
+                  
         }
         
         System.out.println("Longest name: "+longestName);
