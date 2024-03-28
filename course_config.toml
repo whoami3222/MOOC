@@ -535,3 +535,71 @@ checksum = "6be41271d4a8c11702a53dfcf06482d5"
 [exercises."part04-Part04_31.SportStatistics"]
 id = 83246
 checksum = "e159517750a25df6a2010e1fb2c6f30a"
+
+[exercises."part05-Part05_01.OneMinute"]
+id = 83247
+checksum = "94f9f6f5f95f182d42e32df8ce7f6bff"
+
+[exercises."part05-Part05_02.Book"]
+id = 83248
+checksum = "2e5a6deee308c45399babfe011d78526"
+
+[exercises."part05-Part05_03.Cube"]
+id = 83249
+checksum = "39301222a74dbb5764a1358db3d3d11c"
+
+[exercises."part05-Part05_04.FitByte"]
+id = 83250
+checksum = "fbb56cf0ec0351d5ec8a08294cf928d1"
+
+[exercises."part05-Part05_05.ConstructorOverload"]
+id = 83251
+checksum = "f885e60f8af604d916e38a517fbb5c55"
+
+[exercises."part05-Part05_06.OverloadedCounter"]
+id = 83252
+checksum = "63decb83af9b37fb7c49673311093611"
+
+[exercises."part05-Part05_07.NullPointerException"]
+id = 83253
+checksum = "cb7213493c945a6f297c59b8be1c5ca2"
+
+[exercises."part05-Part05_08.BiggestPetShop"]
+id = 83254
+checksum = "0e95c19680b23ba0ba2ba7d46ec9d6f0"
+
+[exercises."part05-Part05_09.HealthStation"]
+id = 83255
+checksum = "b7aed673262e6dc8c9ddedbd538b20b3"
+
+[exercises."part05-Part05_10.CardPayments"]
+id = 83256
+checksum = "68d091d8cb3f6921959fd5d739a1c9cd"
+
+[exercises."part05-Part05_11.ComparingApartments"]
+id = 83257
+checksum = "cdfe9bad24dbe62efa9086b98d528b3a"
+
+[exercises."part05-Part05_12.Song"]
+id = 83258
+checksum = "3ebd5f45877b5762461671048dba87e0"
+
+[exercises."part05-Part05_13.IdenticalTwins"]
+id = 83259
+checksum = "4f9e83c96d69ba2e4cdc6793e3418dde"
+
+[exercises."part05-Part05_14.Books"]
+id = 83260
+checksum = "0334a6fe17e8ab42b896f13f34fc94e8"
+
+[exercises."part05-Part05_15.Archive"]
+id = 83261
+checksum = "4eea53c790fbdd31271878dc7f96efdb"
+
+[exercises."part05-Part05_16.DatingApp"]
+id = 83262
+checksum = "73bfeac14089b93fcf99f679d97488c7"
+
+[exercises."part05-Part05_17.Money"]
+id = 83263
+checksum = "2d8c6850b41355d39e99ad7a542f6e91"
