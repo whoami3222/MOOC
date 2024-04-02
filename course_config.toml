@@ -603,3 +603,55 @@ checksum = "73bfeac14089b93fcf99f679d97488c7"
 [exercises."part05-Part05_17.Money"]
 id = 83263
 checksum = "2d8c6850b41355d39e99ad7a542f6e91"
+
+[exercises."part06-Part06_01.Menu"]
+id = 83264
+checksum = "39d743066316a4bc5422bfe98abf20d4"
+
+[exercises."part06-Part06_02.Stack"]
+id = 83265
+checksum = "b5691b769ae7e26bac109fb916c17007"
+
+[exercises."part06-Part06_03.MessagingService"]
+id = 83266
+checksum = "a93f282618bf687fc57087e920aabc58"
+
+[exercises."part06-Part06_04.PrintingACollection"]
+id = 83267
+checksum = "b15fb0429a60bb1261119f254088d650"
+
+[exercises."part06-Part06_05.SantasWorkshop"]
+id = 83268
+checksum = "4f0ef951bef571332945e1aa2f104c8b"
+
+[exercises."part06-Part06_06.LongestInCollection"]
+id = 83269
+checksum = "2f7e7a5447e43b1824cde500894bef5b"
+
+[exercises."part06-Part06_07.HeightOrder"]
+id = 83270
+checksum = "5138219805be1da541cb1ccf29cd2672"
+
+[exercises."part06-Part06_08.CargoHold"]
+id = 83271
+checksum = "5a9cebec765a7debd33e5ddc63f8ba69"
+
+[exercises."part06-Part06_09.SimpleDictionary"]
+id = 83272
+checksum = "2e3c3ce27a3cc511c961d78a7abd76cb"
+
+[exercises."part06-Part06_10.TodoList"]
+id = 83273
+checksum = "69d80d59d6e90901c91060489278ecca"
+
+[exercises."part06-Part06_11.Averages"]
+id = 83274
+checksum = "d85fca2c255cec42bec7377f9d22f804"
+
+[exercises."part06-Part06_12.JokeManager"]
+id = 83275
+checksum = "c0920579e9a769d14244a2d8d27fecff"
+
+[exercises."part06-Part06_13.Exercises"]
+id = 83276
+checksum = "cbf4ee4b81164510c547c35499415db6"
