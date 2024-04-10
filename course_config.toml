@@ -655,3 +655,35 @@ checksum = "c0920579e9a769d14244a2d8d27fecff"
 [exercises."part06-Part06_13.Exercises"]
 id = 83276
 checksum = "cbf4ee4b81164510c547c35499415db6"
+
+[exercises."part07-Part07_01.LiquidContainers"]
+id = 83277
+checksum = "cbba8f17ef3abe2e3c14376b746d114d"
+
+[exercises."part07-Part07_02.LiquidContainers2"]
+id = 83278
+checksum = "bdb7c713d1b49c50a36f8092f90048ee"
+
+[exercises."part07-Part07_03.Sorting"]
+id = 83279
+checksum = "031130e923a9aac3c8a4453c8899b2d2"
+
+[exercises."part07-Part07_04.ReadymadeSortingAlgorithms"]
+id = 83280
+checksum = "1131436e59b351d4056ecb5e800bb4e5"
+
+[exercises."part07-Part07_05.Searching"]
+id = 83281
+checksum = "8462a4d763de9e720b121a01a368a898"
+
+[exercises."part07-Part07_06.GradeStatistics"]
+id = 83282
+checksum = "067bcfc23648d0cc80dc31ebe82adc12"
+
+[exercises."part07-Part07_07.RecipeSearch"]
+id = 83283
+checksum = "56d605c258125d134498f48a9c497b34"
+
+[exercises."part07-Part07_08.BigYear"]
+id = 83284
+checksum = "57ec0d538cef8f6d544a70e0e6c5b1b8"
