@@ -17,11 +17,23 @@ public class Main {
 
             System.out.println("Publication year:");
             int publicationYear = Integer.valueOf(scanner.nextLine());
-            Book book = new Book(name, publicationYear);
-            books.add(book);
 
+            Book book = new Book(name, publicationYear);
+            boolean bookExists = false;
+            for (Book b : books) {
+                if (b.equals(book)) {
+                    bookExists = true;
+                    break; // No need to continue checking once we found a match
+                }
+            }
+
+            if (bookExists) {
+                System.out.println("The book is already on the list. Let's not add the same book again.");
+            } else {
+                books.add(book);
+            }
         }
-        
+
         // NB! Don't alter the line below!
         System.out.println("Thank you! Books added: " + books.size());
     }
